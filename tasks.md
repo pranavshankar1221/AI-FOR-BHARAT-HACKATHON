@@ -199,24 +199,9 @@ Create Dockerfiles for backend and frontend, and docker-compose for local develo
 - **Tools**: Docker, docker-compose
 - **Priority**: High
 
-### Task 6.2: AWS Infrastructure Setup
-Set up VPC, subnets, security groups, RDS PostgreSQL, ElastiCache Redis, and S3 buckets.
-- **Tools**: Terraform or CloudFormation, AWS CLI
-- **Priority**: High
-
-### Task 6.3: ECS/EKS Deployment
-Deploy containers to ECS Fargate or EKS with auto-scaling and Application Load Balancer configuration.
-- **Tools**: AWS ECS/EKS, ALB, Terraform
-- **Priority**: High
-
 ### Task 6.4: CI/CD Pipeline
 Set up automated pipeline with testing, building, and deployment stages triggered on git push.
 - **Tools**: GitHub Actions, AWS CodePipeline
-- **Priority**: High
-
-### Task 6.5: SSL/TLS & Domain Setup
-Configure HTTPS with AWS Certificate Manager, set up custom domain with Route 53, and enable CloudFront CDN.
-- **Tools**: AWS ACM, Route 53, CloudFront
 - **Priority**: High
 
 ### Task 6.6: Monitoring & Logging
@@ -247,3 +232,4 @@ Write API documentation, user guide, deployment guide, create demo video, and pr
 - High Priority: 32 tasks (Core functionality)
 - Medium Priority: 10 tasks (Enhanced features)
 - Low Priority: 0 tasks (All tasks are essential)
+
