@@ -98,8 +98,6 @@ VitalPredict AI is an intelligent preventive healthcare platform that analyzes b
 **Infrastructure:**
 - Docker (containerization)
 - AWS ECS/EKS (orchestration)
-- AWS RDS (managed database)
-- AWS ElastiCache (managed Redis)
 - CloudFront (CDN)
 - Terraform (IaC)
 
@@ -460,3 +458,4 @@ Weighted Risk = (0.40 × CVD_Risk) + (0.30 × Diabetes_Risk)
 ---
 
 **End of Design Document**
+
