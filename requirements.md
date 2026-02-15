@@ -300,7 +300,43 @@ The System SHALL:
 
 ---
 
-# 5. Conclusion
+## Data Usage Policy
+
+VitalPredict AI SHALL use only:
+
+1. Synthetic health datasets generated for research and development purposes
+2. Publicly available medical datasets from trusted repositories
+
+The System SHALL NOT use real patient data unless explicitly authorized under legal and ethical compliance frameworks.
+
+All model training, testing, and validation SHALL be performed using:
+- Public clinical datasets
+- Anonymized open-source medical data
+- Synthetic datasets generated using statistical simulation techniques
+
+---
+
+## Limitations
+
+The System SHALL clearly state the following limitations:
+
+1. Risk predictions are based on synthetic or publicly available datasets and may not fully represent real-world population diversity.
+2. The system is intended for preventive and educational purposes only.
+3. The system does NOT provide medical diagnosis.
+4. Users are advised to consult certified healthcare professionals before making medical decisions.
+5. Model accuracy may vary across different demographic groups.
+6. Predictions depend on data quality and completeness.
+
+---
+
+## Disclaimer
+
+VitalPredict AI is NOT a replacement for professional medical advice, diagnosis, or treatment.  
+It is designed as a preventive health intelligence support tool.
+
+# Conclusion
 
 VitalPredict AI aims to deliver a scalable, explainable, secure, and preventive AI healthcare intelligence system capable of supporting both individual users and healthcare providers through predictive analytics and personalized recommendations.
+
+
 
